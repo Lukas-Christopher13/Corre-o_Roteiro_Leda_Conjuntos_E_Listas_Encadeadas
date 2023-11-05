@@ -1,0 +1,2 @@
+Apenas 3 testes de conjutos dinamicos passaram.
+E foi um sacrificio fazer esse projeto rodar.

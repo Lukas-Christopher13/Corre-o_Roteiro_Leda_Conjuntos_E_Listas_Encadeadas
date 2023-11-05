@@ -1,0 +1,33 @@
+diff TestaListaEncadeada.java => Testes do aluno!
+TestaListaEncadeada.java  => Testes do professor!
+
+
+34c34
+< 	        assertArrayEquals(new Integer[]{2}, listaEnc.toArray(Integer.class)); #(modificação realizada pelo aluno) 
+---
+> 	        assertArrayEquals(new Integer[2], listaEnc.toArray(Integer.class));
+122c122
+< 	public void insertRemoverTeste() throws ListaVaziaException {   #(modificação realizada pelo aluno) !(Nada de mais) 
+---
+> 	public void insertRemoverTeste() {
+157c157
+< 	        assertArrayEquals(new Integer[] {38}, listaEnc.toArray(Integer.class)); 
+---
+> 	        assertArrayEquals(new Integer[] {69}, listaEnc.toArray(Integer.class)); #(modificação realizada pelo aluno)
+167c167
+< 	}
+---
+> 	}
+206c206
+< 	public void isEmptyTest() throws ListaVaziaException {  #(modificação realizada pelo aluno) !(Nada de mais) 
+---
+> 	public void isEmptyTest() {
+228c228
+< 	public void sizeRemoveCabecaTest() throws ListaVaziaException { #(modificação realizada pelo aluno) !(Nada de mais) 
+---
+> 	public void sizeRemoveCabecaTest() {
+246c246
+< 	}
+---
+> 	}
+

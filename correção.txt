@@ -1,0 +1,4 @@
+Os roteiros de Dayvid e Kaio funcionam perfeitamente, salve algumas modificações que ambos fizeram nos arquivos de teste, as quis eu descobri
+por meio do comando 'diff' do linux. Porem nada de mais.
+
+Já o roteiro de Arthur eu tive muito trabalho para rodar por conta de complicações no junit, e ao rodar apenas 3 testes passaram. 
